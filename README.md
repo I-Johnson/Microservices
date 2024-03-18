@@ -9,10 +9,13 @@
 
 
 <h2>High Level Solution Architecture</h2>
+
 ![High Level Solution Architecture](https://github.com/I-Johnson/Microservices/assets/65931309/9b8f5185-0e41-4f5b-92fd-8aa9b8d0094d)
 
 <h2>Logical Architecture</h2>
+
 ![Logical Architecture](https://github.com/I-Johnson/Microservices/assets/65931309/79da3ff5-1870-4a51-8502-f0a68776a453)
 
 <h2>Inter Process Communication between Order Service and Inventory Service</h2>
+
 ![InterProcess Communication](https://github.com/I-Johnson/Microservices/assets/65931309/031f8c98-b6aa-476f-8176-16296eede221)
